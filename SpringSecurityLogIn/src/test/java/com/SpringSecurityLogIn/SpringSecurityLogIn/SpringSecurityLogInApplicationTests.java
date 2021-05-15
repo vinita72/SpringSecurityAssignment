@@ -1,10 +1,10 @@
-package com.ManagementRestApiCore.ManagementRestApiCore;
+package com.SpringSecurityLogIn.SpringSecurityLogIn;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ManagementRestApiCoreApplicationTests {
+class SpringSecurityLogInApplicationTests {
 
 	@Test
 	void contextLoads() {

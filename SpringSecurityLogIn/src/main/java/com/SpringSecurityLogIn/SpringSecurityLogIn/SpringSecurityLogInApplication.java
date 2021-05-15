@@ -1,13 +1,13 @@
-package com.ManagementRestApiCore.ManagementRestApiCore;
+package com.SpringSecurityLogIn.SpringSecurityLogIn;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ManagementRestApiCoreApplication {
+public class SpringSecurityLogInApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ManagementRestApiCoreApplication.class, args);
+		SpringApplication.run(SpringSecurityLogInApplication.class, args);
 	}
 
 }
