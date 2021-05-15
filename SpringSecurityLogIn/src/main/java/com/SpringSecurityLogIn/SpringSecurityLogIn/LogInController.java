@@ -11,5 +11,6 @@ public class LogInController {
 	public String login() {
 		
 		return "login";
+		
 	}
 }
